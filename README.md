@@ -23,7 +23,7 @@ et voilà! Installation complete 🎉. Now, clean up:
 
 ## [+] Installation & Usage :atom_symbol:
 ```
-
+bash
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
@@ -36,6 +36,7 @@ exit
 
 ### One command installation :octocat:
 ```
-
+bash
 apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
+exit
 
